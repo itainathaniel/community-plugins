@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: community-plugins
+  annotations:
+    github.com/project-slug: itainathaniel/community-plugins
+spec:
+  type: other
+  lifecycle: unknown
+  owner: developers
