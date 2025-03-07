@@ -1,5 +1,15 @@
 ## @backstage-community/plugin-redhat-argocd
 
+## 1.17.0
+
+### Minor Changes
+
+- df9d65d: Add backwards compatibility fixes to support RoadieHQ ArgoCD Backend
+
+### Patch Changes
+
+- 989bd8c: Remove CSS resets from PatternFly CSS import
+
 ## 1.16.0
 
 ### Minor Changes
