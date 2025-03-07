@@ -1,5 +1,11 @@
 ### Dependencies
 
+## 3.21.1
+
+### Patch Changes
+
+- 76de75c: Remove CSS resets from PatternFly CSS import
+
 ## 3.21.0
 
 ### Minor Changes
